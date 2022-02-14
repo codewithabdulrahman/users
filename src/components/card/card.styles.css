@@ -15,3 +15,11 @@
 .card-container:hover {
   transform: scale(1.05);
 }
+
+.card-container h1 {
+  text-align: center;
+}
+
+.card-container p {
+  text-align: center;
+}
